@@ -1,0 +1,73 @@
+## Your Generated Study Pack
+
+## 1. SUMMARY
+
+A computer network is a collection of interconnected devices that communicate and share resources. Networks consist of nodes and communication links. Protocols are sets of rules that govern how data is transmitted and received between devices. The OSI model organizes network communication into seven layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.
+
+## 2. KEY CONCEPTS
+
+- **Computer Network:** A collection of interconnected devices that communicate and share resources with one another.
+- **Nodes and Communication Links:** Nodes are devices such as computers, servers, and printers. Communication links connect these devices and allow data to travel between them.
+- **Protocol:** A set of rules that governs communication between devices in a network, specifically defining how data is transmitted and received.
+- **OSI Model:** A framework that divides network communication into seven layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.
+
+## 3. PRACTICE QUESTIONS
+
+**Multiple-Choice Questions**
+
+
+
+**Q1. What is a collection of interconnected devices that communicate and share resources called?** A) Protocol B) Computer network C) OSI model D) Communication link
+
+
+
+**Q2. Which layer of the OSI model is responsible for logical addressing and routing?** A) Network layer B) Physical layer C) Data Link layer D) Transport layer
+
+
+
+**Q3. What is the function of the Presentation layer?** A) Transmitting raw bits over a communication medium B) Managing communication sessions C) Handling data translation, encryption, and compression D) Providing network services to applications used by end users
+
+
+
+**Q4. Which OSI layer handles node-to-node data transfer?** A) Transport layer B) Data Link layer C) Session layer D) Physical layer
+
+
+
+**Q5. What governs how data is transmitted and received between devices in a network?** A) Nodes B) Communication links C) The OSI model D) A protocol
+
+
+
+**Short-Answer Questions**
+
+
+
+**Q6. What are the two primary components that make up a network?** **Q7. What is the role of the Physical layer?** **Q8. What does the Transport layer provide?** **Q9. What is the purpose of the Session layer?** **Q10. How does the Application layer function within the OSI model?**
+
+## 4. ANSWER KEY
+
+- **Q1: B.** A computer network is a collection of interconnected devices that communicate and share resources. (Source: "A computer network is a collection of interconnected devices that communicate and share resources with one another.")
+- **Q2: A.** The Network layer is responsible for logical addressing and routing. (Source: "The Network layer is responsible for logical addressing and routing.")
+- **Q3: C.** The Presentation layer handles data translation, encryption, and compression. (Source: "The Presentation layer handles data translation, encryption, and compression.")
+- **Q4: B.** The Data Link layer handles node-to-node data transfer. (Source: "The Data Link layer handles node-to-node data transfer.")
+- **Q5: D.** A protocol is a set of rules that governs communication. (Source: "A protocol is a set of rules that governs communication between devices in a network.")
+- **Q6.** A network consists of nodes and communication links. (Source: "A network consists of nodes and communication links.")
+- **Q7.** The Physical layer is responsible for transmitting raw bits over a communication medium. (Source: "The Physical layer is responsible for transmitting raw bits over a communication medium.")
+- **Q8.** The Transport layer provides end-to-end communication between devices. (Source: "The Transport layer provides end-to-end communication between devices.")
+- **Q9.** The Session layer manages communication sessions. (Source: "The Session layer manages communication sessions.")
+- **Q10.** The Application layer provides network services to applications used by end users. (Source: "The Application layer provides network services to applications used by end users.")
+
+## 5. REVIEW REPORT
+
+- **Issue:** Q5 in the draft contained slightly imprecise wording ("between devices" instead of "between devices in a network").
+  - **Correction:** Updated the question to align precisely with the definition in the lecture notes.
+- **Issue:** Q10 in the draft used "end-user applications" while the notes specify "applications used by end users."
+  - **Correction:** Updated the Answer Key to match the source text exactly.
+- **Issue:** Q3 choice D in the draft used "end-user applications" while the notes specify "applications used by end users."
+  - **Correction:** Updated the option to match the source text exactly.
+
+View initial generated draft
+
+
+
+
+

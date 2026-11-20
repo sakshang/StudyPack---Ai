@@ -1,0 +1,26 @@
+STUDYPACK AI — PROMPT EXPERIMENT COMPARISON
+
+Test input:
+The same machine learning lecture notes were used for both experiments.
+
+EXPERIMENT 1 — V1
+- Generated a useful summary and key concepts.
+- MCQ formatting was inconsistent.
+- Some questions did not include four answer options.
+- Introduced unsupported examples, including house prices and cat-vs-dog classification.
+- The quality of the answer key and source grounding needed improvement.
+
+EXPERIMENT 2 — V2
+- Generated a more structured summary and key concepts.
+- Generated exactly 10 questions: 5 MCQs and 5 short-answer questions.
+- All MCQs included four options.
+- Answers included supporting references to the notes.
+- No unsupported examples were observed.
+- Minor issue: changed "branch" to "subset" in the summary.
+- Some MCQ distractors introduced terminology not present in the notes.
+
+CONCLUSION
+V2 improved structure, question formatting, and adherence to the supplied notes compared with V1. However, terminology preservation and distractor quality still need improvement.
+
+NEXT ITERATION
+V3 will focus on preserving the original terminology and improving the quality of MCQ options. An independent review step will also be considered.

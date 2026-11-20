@@ -1,0 +1,42 @@
+Your Generated Study Pack
+SECTION 1: SUMMARY
+Machine learning is a subset of artificial intelligence focused on enabling computers to learn patterns from data. This field is categorized by the type of data used for training: supervised learning utilizes labelled datasets, whereas unsupervised learning identifies hidden patterns within unlabelled data. Furthermore, machine learning models are applied to predict discrete categories through classification or continuous numerical values through regression.
+
+SECTION 2: KEY CONCEPTS
+Machine Learning: A branch of artificial intelligence that allows computers to learn patterns from data.
+Supervised Learning: A method of training models that uses labelled datasets.
+Unsupervised Learning: A method of identifying hidden patterns in data that is unlabelled.
+Classification: A process used to predict discrete categories.
+Regression: A process used to predict continuous numerical values.
+SECTION 3: PRACTICE QUESTIONS
+Multiple Choice Questions
+
+What is machine learning a branch of? A) Data science B) Artificial intelligence C) Numerical analysis D) Statistical modelling
+
+What type of data does supervised learning use? A) Unlabelled datasets B) Labelled datasets C) Randomly generated data D) Hidden patterns
+
+What does unsupervised learning identify? A) Discrete categories B) Continuous numerical values C) Hidden patterns D) Labelled datasets
+
+Which process predicts discrete categories? A) Regression B) Artificial intelligence C) Unsupervised learning D) Classification
+
+What does regression predict? A) Discrete categories B) Labelled datasets C) Continuous numerical values D) Hidden patterns
+
+Short Answer Questions 6. Define machine learning based on the provided notes. 7. What is the primary difference between supervised and unsupervised learning regarding the data they use? 8. What is the goal of classification? 9. Does regression predict discrete categories or continuous numerical values? 10. Are there any other types of machine learning mentioned in the notes besides supervised and unsupervised learning?
+
+SECTION 4: ANSWER KEY
+B. The notes state, "Machine learning is a branch of artificial intelligence."
+B. The notes state, "Supervised learning uses labelled datasets to train models."
+C. The notes state, "Unsupervised learning identifies hidden patterns in unlabelled data."
+D. The notes state, "Classification predicts discrete categories."
+C. The notes state, "regression predicts continuous numerical values."
+Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data. (Source: Intro sentence).
+Supervised learning uses labelled datasets, while unsupervised learning uses unlabelled data. (Source: Sentence 2 and 3).
+The goal is to predict discrete categories. (Source: Sentence 4).
+Regression predicts continuous numerical values. (Source: Sentence 4).
+Not covered in the supplied notes.
+SECTION 5: QUALITY CHECK
+10 questions total? Yes.
+4 options for MCQs? Yes.
+Supported by notes? Yes.
+No repeated questions? Yes.
+No unsupported facts? Yes.

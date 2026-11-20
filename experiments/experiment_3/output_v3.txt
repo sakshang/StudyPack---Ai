@@ -1,0 +1,51 @@
+Your Generated Study Pack
+StudyPack AI: Machine Learning Basics
+SECTION 1: SUMMARY
+Machine learning, a subset of artificial intelligence, focuses on enabling computers to learn patterns from data. This field is divided into supervised learning, which utilizes labelled datasets for model training, and unsupervised learning, which detects hidden patterns within unlabelled data. Within supervised learning, tasks are categorized into classification, which predicts discrete categories, and regression, which predicts continuous numerical values.
+
+SECTION 2: KEY CONCEPTS
+Machine Learning: A branch of artificial intelligence that allows computers to learn patterns from data.
+Supervised Learning: A type of learning that uses labelled datasets to train models.
+Unsupervised Learning: A type of learning that identifies hidden patterns within unlabelled data.
+Classification: A process that predicts discrete categories.
+Regression: A process that predicts continuous numerical values.
+SECTION 3: PRACTICE QUESTIONS
+Multiple-Choice Questions
+
+Which field is machine learning a branch of? A) Data science B) Artificial intelligence C) Statistical analysis D) Computational logic
+
+What does supervised learning require to train models? A) Unlabelled data B) Hidden patterns C) Labelled datasets D) Discrete categories
+
+What is the primary function of unsupervised learning? A) Predicting continuous values B) Identifying hidden patterns in unlabelled data C) Training models using labels D) Predicting discrete categories
+
+Which term describes the prediction of discrete categories? A) Regression B) Unsupervised learning C) Supervised learning D) Classification
+
+What does regression predict? A) Discrete categories B) Labelled datasets C) Continuous numerical values D) Hidden patterns
+
+Short-Answer Questions
+
+Define machine learning according to the notes.
+What is the difference between the data used in supervised learning and unsupervised learning?
+In machine learning, what do computers learn from data?
+Which type of learning is used to predict continuous numerical values?
+What is the purpose of classification?
+SECTION 4: ANSWER KEY
+B. Machine learning is a branch of artificial intelligence.
+C. Supervised learning uses labelled datasets to train models.
+B. Unsupervised learning identifies hidden patterns in unlabelled data.
+D. Classification predicts discrete categories.
+C. Regression predicts continuous numerical values.
+Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data.
+Supervised learning uses labelled datasets, while unsupervised learning uses unlabelled data.
+Computers learn patterns from data.
+Regression.
+The purpose of classification is to predict discrete categories.
+SECTION 5: QUALITY CHECK
+All major topics covered? Yes.
+Original terminology preserved? Yes.
+Exactly 10 questions? Yes.
+Every MCQ has four options? Yes.
+Exactly one correct answer per MCQ? Yes.
+Distractors relevant? Yes.
+All answers supported? Yes.
+No external facts introduced? Yes.

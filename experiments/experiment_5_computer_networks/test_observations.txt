@@ -1,0 +1,36 @@
+# STUDYPACK AI - TEST OBSERVATIONS
+
+## Test Details
+- Experiment: Experiment 5 - Computer Networks
+- Prompt version: V4
+- Model: Gemini 3.1 Flash Lite
+- Input method: Text input
+- Test objective: Evaluate whether StudyPack AI can generate a structured study pack from a different academic subject.
+
+## Observations
+
+1. **Summary Generation:** The application generated a concise summary covering computer networks, nodes, communication links, protocols and the OSI model.
+
+2. **Key Concept Extraction:** Important concepts and their definitions were extracted from the supplied notes.
+
+3. **Practice Questions:** The application generated five multiple-choice questions and five short-answer questions.
+
+4. **Answer Key:** Answers included explanations and supporting statements from the original notes.
+
+5. **Source Grounding:** No unsupported factual claims were observed in the final generated study pack.
+
+6. **Independent Review:** The reviewer identified three wording-related issues in its report and provided corrections.
+
+7. **PDF Input Testing:** PDF upload and text extraction were also tested successfully. The application was able to process PDF notes and generate a study pack.
+
+## Issues and Limitations
+
+- Some questions may test similar concepts.
+- The reviewer may overlook errors or report corrections that cannot be independently verified without examining the initial draft.
+- More testing with different subjects and longer lecture notes is required.
+
+## Conclusion
+
+StudyPack AI successfully generated a structured study pack from Computer Networks notes using V4. The test demonstrated that the application can work with a subject different from the original Machine Learning test.
+
+PDF input was also tested successfully. Further evaluation is required to assess consistency and reliability across a wider range of lecture materials.

@@ -1,0 +1,55 @@
+Your Generated Study Pack
+1. SUMMARY
+Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data. Approaches include supervised learning, which uses labelled datasets to train models, and unsupervised learning, which identifies hidden patterns in unlabelled data. Machine learning tasks include classification, which predicts discrete categories, and regression, which predicts continuous numerical values.
+
+2. KEY CONCEPTS
+Machine learning: A branch of artificial intelligence that enables computers to learn patterns from data.
+Supervised learning: A method that uses labelled datasets to train models.
+Unsupervised learning: A method that identifies hidden patterns in unlabelled data.
+Classification: A task that predicts discrete categories.
+Regression: A task that predicts continuous numerical values.
+3. PRACTICE QUESTIONS
+Multiple-Choice Questions
+
+Q1. Which branch of artificial intelligence enables computers to learn patterns from data? A) Regression B) Machine learning C) Classification D) Unsupervised learning
+
+Q2. What type of dataset is required to train models in supervised learning? A) Unlabelled datasets B) Discrete categories C) Labelled datasets D) Numerical values
+
+Q3. What does unsupervised learning identify in unlabelled data? A) Discrete categories B) Continuous numerical values C) Hidden patterns D) Labelled datasets
+
+Q4. Which task predicts continuous numerical values? A) Regression B) Supervised learning C) Classification D) Machine learning
+
+Q5. Which task predicts discrete categories? A) Unsupervised learning B) Regression C) Machine learning D) Classification
+
+Short-Answer Questions
+
+Q6. Define machine learning. Q7. What is the difference between supervised and unsupervised learning regarding the data used? Q8. How is a classification task defined? Q9. What is the output of a regression task? Q10. Machine learning is a branch of what field?
+
+4. ANSWER KEY
+Q1: B. Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data. (Source: "Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data.")
+
+Q2: C. Supervised learning uses labelled datasets to train models. (Source: "Supervised learning uses labelled datasets to train models.")
+
+Q3: C. Unsupervised learning identifies hidden patterns in unlabelled data. (Source: "Unsupervised learning identifies hidden patterns in unlabelled data.")
+
+Q4: A. Regression predicts continuous numerical values. (Source: "regression predicts continuous numerical values.")
+
+Q5: D. Classification predicts discrete categories. (Source: "Classification predicts discrete categories")
+
+Q6. Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data. (Source: "Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data.")
+
+Q7. Supervised learning uses labelled datasets to train models, while unsupervised learning identifies hidden patterns in unlabelled data. (Source: "Supervised learning uses labelled datasets to train models. Unsupervised learning identifies hidden patterns in unlabelled data.")
+
+Q8. A classification task predicts discrete categories. (Source: "Classification predicts discrete categories")
+
+Q9. Regression predicts continuous numerical values. (Source: "regression predicts continuous numerical values.")
+
+Q10. Machine learning is a branch of artificial intelligence. (Source: "Machine learning is a branch of artificial intelligence...")
+
+5. REVIEW REPORT
+Issue: Q2 distractor "B" used "Discrete datasets." The term "discrete" is defined in the notes only in relation to classification, not datasets.
+Correction: Replaced "Discrete datasets" with "Discrete categories" to maintain consistency with the provided notes.
+Issue: Q2 distractor "D" used "Numerical datasets." The term "numerical" is defined in the notes only in relation to regression values, not datasets.
+Correction: Replaced "Numerical datasets" with "Numerical values."
+Issue: Supporting points in the original answer key contained minor punctuation inconsistencies or incomplete citations.
+Correction: Standardized supporting points to match the text of the source notes exactly.

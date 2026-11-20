@@ -1,0 +1,46 @@
+# STUDYPACK AI — EXPERIMENT COMPARISON (V1–V4)
+
+## Test Method
+The same machine learning lecture notes were used as input for all four experiments to maintain consistency.
+
+## V1 — Baseline Prompt
+- Generated a useful summary and key concepts.
+- MCQ formatting was inconsistent.
+- Some questions lacked four answer options.
+- Introduced unsupported examples.
+- Required stronger source grounding.
+
+## V2 — Structured Generation
+- Improved summary and key concept organization.
+- Generated exactly 10 questions.
+- All MCQs contained four options.
+- Answers included supporting references.
+- Reduced unsupported content.
+- Minor terminology changes and unrelated distractors remained.
+
+## V3 — Terminology and Distractor Constraints
+- Improved question structure and answer consistency.
+- Added explicit terminology preservation instructions.
+- Restricted distractors to concepts from the notes.
+- Still changed some original terminology.
+- Introduced an unsupported relationship between concepts.
+- The self-reported quality check did not identify all issues.
+
+## V4 — Two-Stage Generation and Review
+- Implemented two separate Gemini API calls.
+- First call generated the initial study pack.
+- Second call reviewed the draft against the original notes.
+- Improved terminology preservation and source grounding.
+- Included a review report describing identified issues and corrections.
+- Some questions remained repetitive.
+- The reviewer report contained claims about corrections that could not be independently verified from the final output alone.
+
+## Overall Findings
+The experiments demonstrate iterative improvement in prompt structure, source grounding, question formatting and review procedures.
+
+V4 introduced a separate review stage, making the workflow more systematic. However, the reviewer can still overlook issues or report corrections that require verification.
+
+## Conclusion
+V4 is the selected candidate for the final StudyPack AI implementation because it combines structured study-pack generation with a separate review stage.
+
+Further evaluation with different lecture notes is required before treating it as a reliable general-purpose study tool.

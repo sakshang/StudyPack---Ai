@@ -1,0 +1,1 @@
+Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data. Supervised learning uses labelled datasets to train models. Unsupervised learning identifies hidden patterns in unlabelled data. Classification predicts discrete categories, while regression predicts continuous numerical values.

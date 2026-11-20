@@ -1,0 +1,36 @@
+Your Generated Study Pack
+Hello! I am StudyPack AI, your dedicated educational assistant. Below is the structured study pack based on the lecture notes provided.
+
+📚 Study Pack: Introduction to Machine Learning
+1. SUMMARY
+Machine learning is a subset of artificial intelligence focused on teaching computers to recognize patterns within data. The field is primarily categorized into supervised learning, which utilizes labelled data for training, and unsupervised learning, which uncovers hidden structures in unlabelled data. Furthermore, machine learning models are tasked with either classification (predicting discrete categories) or regression (predicting continuous numerical values).
+
+2. KEY CONCEPTS
+Machine Learning (ML): A branch of artificial intelligence where computers are programmed to learn and identify patterns from data rather than following rigid, pre-defined rules.
+Supervised Learning: A training method that relies on "labelled" data (data that already contains the answers or target outputs) to teach a model.
+Unsupervised Learning: A training method used to analyze unlabelled data to find hidden patterns or structures without prior guidance.
+Classification: A type of predictive task where the model categorizes data into distinct, discrete groups or labels (e.g., "Yes/No" or "Type A/Type B").
+Regression: A type of predictive task where the model forecasts a continuous numerical value (e.g., predicting a price or a temperature).
+3. PRACTICE QUESTIONS
+Multiple Choice
+
+Which branch of AI focuses on learning patterns from data?
+Which type of learning requires labelled datasets?
+If a model is predicting a specific category, what is this process called?
+What is the goal of unsupervised learning?
+Which task would be considered regression? a) Identifying cat vs. dog
+b) Predicting the exact price of a house
+Short Answer 6. How does supervised learning differ from unsupervised learning? 7. Define the primary objective of a regression model. 8. What is the fundamental difference between classification and regression? 9. True or False: Machine learning is considered a branch of artificial intelligence. 10. In what scenario would you use unlabelled data to train a model?
+
+4. ANSWER KEY
+Machine Learning. (ML enables computers to learn patterns from data).
+Supervised Learning. (Supervised learning uses labelled datasets to train models).
+Classification. (Classification predicts discrete categories).
+To identify hidden patterns. (Unsupervised learning identifies hidden patterns in unlabelled data).
+b) Predicting the exact price of a house. (Regression predicts continuous numerical values).
+Supervised learning uses labelled data to train a model, whereas unsupervised learning uses unlabelled data to find hidden patterns.
+To predict continuous numerical values.
+Classification outputs discrete categories, while Regression outputs continuous numerical values.
+True. (Machine learning is a branch of artificial intelligence).
+When performing unsupervised learning. (The notes state that unsupervised learning identifies patterns in unlabelled data).
+Note: This study pack contains only information supported by the provided lecture notes. Any aspects of machine learning not mentioned in the source text (such as specific algorithms or real-world applications) have been omitted.

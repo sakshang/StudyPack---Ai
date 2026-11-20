@@ -1,0 +1,11 @@
+A computer network is a collection of interconnected devices that communicate and share resources with one another.
+
+A network consists of nodes and communication links. Nodes are devices such as computers, servers, and printers. Communication links connect these devices and allow data to travel between them.
+
+A protocol is a set of rules that governs communication between devices in a network. Protocols define how data is transmitted and received.
+
+The OSI model divides network communication into seven layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.
+
+The Physical layer is responsible for transmitting raw bits over a communication medium. The Data Link layer handles node-to-node data transfer. The Network layer is responsible for logical addressing and routing. The Transport layer provides end-to-end communication between devices.
+
+The Session layer manages communication sessions. The Presentation layer handles data translation, encryption, and compression. The Application layer provides network services to applications used by end users.
