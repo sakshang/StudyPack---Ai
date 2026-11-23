@@ -1,0 +1,16 @@
+
+Operating Systems – Important Concepts
+
+An Operating System (OS) is system software that manages computer hardware and software resources and provides services to application programs.
+
+A process is a program currently being executed. Each process has its own Process Control Block (PCB), which stores information such as the process state, process ID, and CPU register values.
+
+A thread is the smallest unit of execution within a process. Multiple threads can exist within the same process.
+
+Context switching occurs when the CPU switches from one process or thread to another. The operating system saves the current execution state and restores the state of the next process.
+
+Deadlock is a situation in which two or more processes are unable to proceed because each is waiting for a resource held by another process.
+
+Virtual memory is a memory management technique that allows processes to use an address space larger than the available physical memory.
+
+Paging is a memory management scheme that divides virtual memory into fixed-size pages and physical memory into corresponding frames.

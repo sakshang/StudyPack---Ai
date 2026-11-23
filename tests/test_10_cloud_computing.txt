@@ -1,0 +1,28 @@
+
+Cloud Computing – Introduction
+
+Cloud computing is a technology that provides computing services over the internet. These services allow users to access computing resources without owning or maintaining all the physical infrastructure themselves.
+
+Cloud services can include computing power, storage, databases, networking, and software.
+
+Cloud computing offers several advantages:
+1. Scalability: Resources can be increased or decreased based on demand.
+2. Cost Efficiency: Users can pay for the resources they consume.
+3. Accessibility: Services can be accessed over the internet.
+4. Flexibility: Resources can be adapted to different workloads.
+
+Cloud deployment models include:
+
+Public Cloud: Services are provided over shared infrastructure and made available to multiple customers.
+
+Private Cloud: Infrastructure is dedicated to a single organization.
+
+Hybrid Cloud: Combines public and private cloud environments.
+
+Cloud service models include:
+
+Infrastructure as a Service (IaaS): Provides virtualized computing resources such as servers, storage, and networking.
+
+Platform as a Service (PaaS): Provides a platform and tools for developing and deploying applications.
+
+Software as a Service (SaaS): Provides software applications over the internet, usually through a browser.

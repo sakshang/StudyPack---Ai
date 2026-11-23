@@ -47,6 +47,3 @@ For each of the 10 questions: the answer, a one- to two-sentence explanation, an
 - If none were found, write "No issues identified in the checks performed."
 - Do not claim the pack is fully accurate or error-free. State only which checks were performed.
 
-<notes>
-{notes}
-</notes>

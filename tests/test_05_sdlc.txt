@@ -1,0 +1,24 @@
+
+Software Development Life Cycle (SDLC)
+
+The Software Development Life Cycle is a structured process used to develop software applications. It divides software development into different phases to improve planning, quality, and project management.
+
+The six major phases of SDLC are:
+
+1. Planning: Defines project objectives, scope, resources, budget, and schedule.
+
+2. Requirement Analysis: Collects and analyzes user requirements to understand what the software must accomplish.
+
+3. Design: Defines the system architecture, database structure, user interface, and technical design.
+
+4. Implementation: Developers write code and build the software according to the design.
+
+5. Testing: The software is tested to identify defects and verify that it meets the specified requirements.
+
+6. Maintenance: The software is updated and improved after deployment to fix issues and accommodate changing requirements.
+
+Requirements can be classified into two categories:
+
+Functional Requirements: Describe the specific functions and operations that a system must perform.
+
+Non-Functional Requirements: Describe quality attributes and constraints such as performance, security, reliability, and usability.
